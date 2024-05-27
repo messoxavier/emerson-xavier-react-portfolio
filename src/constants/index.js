@@ -5,11 +5,10 @@ export const HERO_CONTENT = `Graduando no curso de Ciência da Computação, sou
 Com mais de 2 anos de experiência, trabalhei com as linguagens JavaScript e PHP, aprimorei habilidades em front-end com o React, assim como habilidades em back-end com Node.js, Laravel, MySQL e MongoDB.
  Tenho como foco analisar e desenvolver soluções práticas e precisas de acordo com as necessidades.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications.
- With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB.
-  My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges.
-   I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions.
-    Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `Com mais de 2 anos de experiência profissional, tenho trabalhado principalmente com desenvolvimento full stack, utilizando as linguagens PHP e JavaScript,
+ incluindo React, Node.js, Laravel e banco de dados MySQL. Tenho experiência também com Ambientes Virtuais de Aprendizagem, utilizando a plataforma Moodle,
+  atuando diretamente como administrador de sistemas e desenvolvendo melhorias e implementando novas ferramentas.
+   Busco fazer entregas de alta qualidade e foco sempre na experiência do usuário.`;
 
 export const EXPERIENCES = [
   {
