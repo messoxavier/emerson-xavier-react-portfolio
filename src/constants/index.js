@@ -23,23 +23,23 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Sistema e-hora",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "O software de agendamento para atendimento no posto de saúde e-Hora é uma solução intuitiva e eficiente projetada para facilitar o agendamento de consultas médicas e garantir uma melhor experiência para os pacientes.",
+    technologies: ["JavaScript", "React", "Node.js", "MySQL"],
   },
   {
-    title: "Portfolio Website",
+    title: "Meteora",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "Meteora é uma loja virtual ficticia criada apenas para o projeto. A ideia do projeto é criar uma loja virtual utilizando e trabalhando conceitos do Bootstrap5.",
+    technologies: ["HTML", "CSS", "Bootstrap"],
   },
 ];
 
 export const CONTACT = {
   address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  phoneNo: "+55 81 9963-3981 ",
+  email: "meso.xavier@gmail.com",
 };
