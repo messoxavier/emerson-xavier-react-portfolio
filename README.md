@@ -1,5 +1,9 @@
 # Portfolio em construção...
 
+# Tecnologias utilizadas
+- React
+- Tailwind CSS
+- Framer Motion
 
 # React + Vite
 
