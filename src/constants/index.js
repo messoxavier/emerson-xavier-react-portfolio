@@ -30,6 +30,20 @@ export const PROJECTS = [
     technologies: ["JavaScript", "React", "Node.js", "MySQL"],
   },
   {
+    title: "Estruturação de Ambiente Virtual de Aprendizagem",
+    image: project1,
+    description:
+      "O serviço de Telegestão conecta e aproxima os profissionais e gestores de saúde, facilitando a implementação dos processos administrativos e operacionais. Utilizando a webconferência como principal estratégia de transformação digital desde o início de suas atividades, a Diretoria Geral de Telessaúde constituiu a Rede de Videocolaboração em Saúde (RVS), que se tornou um importante recurso para interação on-line entre gestores, médicos e demais profissionais de saúde no estado de Pernambuco. A gestão à distância é aperfeiçoada por meio das ferramentas de videocolaboração, como videoconferência, webconferência e streaming. O sistema anteriormente criado é simples e pode ser acessado por computador, smartphone ou tablet. Através de um sistema de agendamento, o solicitante pode realizar o agendamento dos serviços oferecidos e o foco deste projeto é justamente trazer melhorias e satisfazer as necessidades dos usuários. A Rede de Videocolaboração em Saúde (RVS) será substituída por um novo sistema, chamado Sistema de Gerenciamento de Reunião (SISGER), que trará um novo visual, melhorias e uma segurança maior.",
+    technologies: ["PHP", "Moodle", "HTML", "MySQL"],
+  },
+  {
+    title: "Portfólio Web",
+    image: project1,
+    description:
+      "O serviço de Telegestão conecta e aproxima os profissionais e gestores de saúde, facilitando a implementação dos processos administrativos e operacionais. Utilizando a webconferência como principal estratégia de transformação digital desde o início de suas atividades, a Diretoria Geral de Telessaúde constituiu a Rede de Videocolaboração em Saúde (RVS), que se tornou um importante recurso para interação on-line entre gestores, médicos e demais profissionais de saúde no estado de Pernambuco. A gestão à distância é aperfeiçoada por meio das ferramentas de videocolaboração, como videoconferência, webconferência e streaming. O sistema anteriormente criado é simples e pode ser acessado por computador, smartphone ou tablet. Através de um sistema de agendamento, o solicitante pode realizar o agendamento dos serviços oferecidos e o foco deste projeto é justamente trazer melhorias e satisfazer as necessidades dos usuários. A Rede de Videocolaboração em Saúde (RVS) será substituída por um novo sistema, chamado Sistema de Gerenciamento de Reunião (SISGER), que trará um novo visual, melhorias e uma segurança maior.",
+    technologies: ["JavaScript", "React", "Tailwind CSS"],
+  },
+  {
     title: "Sistema e-hora",
     image: project1,
     description:
