@@ -29,7 +29,7 @@ export const PROJECTS = [
     title: "SISGER",
     image: project4,
     description:
-      "O serviço de Telegestão conecta e aproxima os profissionais e gestores de saúde, facilitando a implementação dos processos administrativos e operacionais. Utilizando a webconferência como principal estratégia de transformação digital desde o início de suas atividades, a Diretoria Geral de Telessaúde constituiu a Rede de Videocolaboração em Saúde (RVS), que se tornou um importante recurso para interação on-line entre gestores, médicos e demais profissionais de saúde no estado de Pernambuco. A gestão à distância é aperfeiçoada por meio das ferramentas de videocolaboração, como videoconferência, webconferência e streaming. O sistema anteriormente criado é simples e pode ser acessado por computador, smartphone ou tablet. Através de um sistema de agendamento, o solicitante pode realizar o agendamento dos serviços oferecidos e o foco deste projeto é justamente trazer melhorias e satisfazer as necessidades dos usuários. A Rede de Videocolaboração em Saúde (RVS) será substituída por um novo sistema, chamado Sistema de Gerenciamento de Reunião (SISGER), que trará um novo visual, melhorias e uma segurança maior.",
+      "Sistema de agendamento desenvolvido para Diretoria Geral de Telessaúde da Secretaria Estadual de Saúde de Pernambuco, com foco no serviço de telegestão para auxiliar no controle de agendamentos de reuniões e melhorar a experiência dos usuários.",
     technologies: ["JavaScript", "React", "Node.js", "MySQL"],
   },
   {
@@ -37,7 +37,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "Estruturação e implementação de Ambiente Virtual de Aprendizagem para Diretoria Geral de Telessaúde da Secretaria Estadual de Saúde de Pernambuco, através da plataforma Moodle.",
-    technologies: ["PHP", "Moodle", "HTML", "MySQL"],
+    technologies: ["PHP", "Moodle", "HTML", "CSS", "MySQL"],
   },
   {
     title: "Portfólio Web",
