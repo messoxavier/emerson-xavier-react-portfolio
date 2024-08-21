@@ -16,7 +16,7 @@ export const ABOUT_TEXT = `Graduando no curso de Ciência da Computação, tive 
 export const EXPERIENCES = [
   {
     year: "08/2021 - Presente",
-    role: "Monitor de sistema e suporte ao usuário",
+    role: "Desenvolvedor de software",
     company: "Montreal Informática",
     description: `Responsável pelo desenvolvimento e manutenção de aplicações web utilizando principalmente JavaScript (React.js e Node.js), PHP (Laravel) e integração com banco de dados MySQL.
      Manutenção e administração de Ambiente Virtual de Aprendizagem(AVA) através da plataforma Moodle. Utilizando sempre das melhores práticas e metodologias ágeis.`,
