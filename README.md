@@ -1,5 +1,3 @@
-# Portfolio em construção...
-
 # Tecnologias utilizadas
 - React
 - Tailwind CSS
