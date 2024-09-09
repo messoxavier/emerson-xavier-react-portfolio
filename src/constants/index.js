@@ -1,11 +1,10 @@
 import project1 from "../assets/projects/sistema-ehora.jpg";
 import project2 from "../assets/projects/Moodle.jpg";
-import project3 from "../assets/projects/meteora.png";
 import project4 from "../assets/projects/SISGER.jpg";
 import project5 from "../assets/projects/portfolio.jpg";
 
 export const HERO_CONTENT = `Sou um profissional dedicado e focado em desenvolver soluções. 
-Com mais de 2 anos de experiência, trabalhei com as linguagens JavaScript e PHP, aprimorei habilidades em front-end com o React, assim como habilidades em back-end com Node.js, Laravel, MySQL e MongoDB.
+Com mais de 3 anos de experiência, trabalhei com as linguagens JavaScript e PHP, aprimorei habilidades em front-end com o React, assim como habilidades em back-end com Node.js, Laravel, MySQL e MongoDB.
  Tenho como foco analisar e desenvolver soluções práticas e precisas de acordo com as necessidades.`;
 
 export const ABOUT_TEXT = `Graduando no curso de Ciência da Computação, tive a oportunidade de estudar e aprimorar minhas habilidades na programação, tenho trabalhado principalmente com desenvolvimento full stack, utilizando as linguagens PHP e JavaScript,
@@ -52,13 +51,6 @@ export const PROJECTS = [
     description:
       "O software de agendamento para atendimento no posto de saúde e-Hora é uma solução intuitiva e eficiente projetada para facilitar o agendamento de consultas médicas e garantir uma melhor experiência para os pacientes.",
     technologies: ["JavaScript", "React", "Node.js", "MySQL"],
-  },
-  {
-    title: "Meteora",
-    image: project3,
-    description:
-      "Meteora é uma loja virtual ficticia criada apenas para o projeto. A ideia do projeto é criar uma loja virtual utilizando e trabalhando conceitos do Bootstrap5.",
-    technologies: ["HTML", "CSS", "Bootstrap"],
   },
 ];
 
