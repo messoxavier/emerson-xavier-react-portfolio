@@ -55,6 +55,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  phoneNo: "+55 81 9963-3981 ",
+  phoneNo: "+55 81 99636-3981 ",
   email: "meso.xavier@gmail.com",
 };
