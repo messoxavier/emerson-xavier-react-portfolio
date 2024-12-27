@@ -7,7 +7,7 @@ export const HERO_CONTENT = `Sou um profissional dedicado e focado em desenvolve
 Com mais de 3 anos de experiência, trabalhei com as linguagens JavaScript e PHP, aprimorei habilidades em front-end com o React, assim como habilidades em back-end com Node.js, Laravel, MySQL e MongoDB.
  Tenho como foco analisar e desenvolver soluções práticas e precisas de acordo com as necessidades.`;
 
-export const ABOUT_TEXT = `Graduando no curso de Ciência da Computação, tive a oportunidade de estudar e aprimorar minhas habilidades na programação, tenho trabalhado principalmente com desenvolvimento full stack, utilizando as linguagens PHP e JavaScript,
+export const ABOUT_TEXT = `Graduado no curso de Ciência da Computação, tive a oportunidade de estudar e aprimorar minhas habilidades na programação, tenho trabalhado principalmente com desenvolvimento full stack, utilizando as linguagens PHP e JavaScript,
  incluindo React, Node.js, Laravel e banco de dados MySQL. Tenho experiência também com Ambientes Virtuais de Aprendizagem, utilizando a plataforma Moodle,
   atuando diretamente como administrador de sistemas e desenvolvendo melhorias e implementando novas ferramentas.
    Busco fazer entregas de alta qualidade e com foco na experiência do usuário.`;
