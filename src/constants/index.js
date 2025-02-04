@@ -14,12 +14,19 @@ export const ABOUT_TEXT = `Graduado no curso de Ciência da Computação, tive a
 
 export const EXPERIENCES = [
   {
+    year: "02/2025 - Presente",
+    role: "Desenvolvedor de Software",
+    company: "Autoimune - Unidade de Terapia Biológica Ltda",
+    description: `Atualização e manutenção de sistemas web utilizando as linguagens PHP e JavaScript e banco de dados MySQL.`,
+    technologies: ["Javascript", "PHP", "Laravel", "MySQL"],
+  },
+  {
     year: "08/2021 - Presente",
     role: "Monitor de sistema e suporte ao usuário",
     company: "Montreal Informática",
     description: `Responsável pelo desenvolvimento e manutenção de aplicações web utilizando principalmente JavaScript (React.js e Node.js), PHP (Laravel) e integração com banco de dados MySQL.
      Manutenção e administração de Ambiente Virtual de Aprendizagem(AVA) através da plataforma Moodle. Utilizando sempre das melhores práticas e metodologias ágeis.`,
-    technologies: ["Javascript", "React.js", "Node.js", "PHP", "Laravel", "MySQL"],
+    technologies: ["Javascript", "React.js", "Node.js", "PHP", "Laravel", "CodeIgniter", "MySQL"],
   },
 ];
 

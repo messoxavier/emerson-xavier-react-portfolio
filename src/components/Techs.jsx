@@ -2,7 +2,7 @@ import { RiReactjsLine } from "react-icons/ri"
 import { FaNodeJs } from "react-icons/fa"
 import { FaLaravel } from "react-icons/fa"
 import { SiMysql } from "react-icons/si"
-import { SiMoodle } from "react-icons/si"
+import { SiCodeigniter } from "react-icons/si";
 import { motion } from "framer-motion"
 
 const iconVariants = (duration) => ({
@@ -63,7 +63,7 @@ const Techs = () => {
         initial="initial"
         animate="animate"
         className="rounded-2xl border-4 border-neutral-800 p-4">
-            <SiMoodle className="text-7xl text-orange-600"/>
+            <SiCodeigniter className="text-7xl text-orange-600"/>
         </motion.div>
       </motion.div>
     </div>
