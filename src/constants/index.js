@@ -15,9 +15,9 @@ export const ABOUT_TEXT = `Graduado no curso de Ciência da Computação, tive a
 export const EXPERIENCES = [
   {
     year: "02/2025 - Presente",
-    role: "Desenvolvedor de Software",
+    role: "Desenvolvedor de sistemas",
     company: "Autoimune - Unidade de Terapia Biológica Ltda",
-    description: `Atualização e manutenção de sistemas web utilizando as linguagens PHP e JavaScript e banco de dados MySQL.`,
+    description: `Atualização e manutenção de sistemas web utilizando o framework Laravel com as linguagens PHP e JavaScript e banco de dados MySQL.`,
     technologies: ["Javascript", "PHP", "Laravel", "MySQL"],
   },
   {
