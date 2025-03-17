@@ -8,20 +8,27 @@ Com mais de 3 anos de experiência, trabalhei com as linguagens JavaScript e PHP
  Tenho como foco analisar e desenvolver soluções práticas e precisas de acordo com as necessidades.`;
 
 export const ABOUT_TEXT = `Graduado no curso de Ciência da Computação, tive a oportunidade de estudar e aprimorar minhas habilidades na programação, tenho trabalhado principalmente com desenvolvimento full stack, utilizando as linguagens PHP e JavaScript,
- incluindo React, Node.js, Laravel e banco de dados MySQL. Tenho experiência também com Ambientes Virtuais de Aprendizagem, utilizando a plataforma Moodle,
-  atuando diretamente como administrador de sistemas e desenvolvendo melhorias e implementando novas ferramentas.
+ incluindo React, Node.js, Laravel, CodeIgniter e banco de dados MySQL. Tenho experiência também com Ambientes Virtuais de Aprendizagem, utilizando a plataforma Moodle,
+  atuando diretamente como administrador de sistemas, desenvolvendo melhorias e implementando novas ferramentas.
    Busco fazer entregas de alta qualidade e com foco na experiência do usuário.`;
 
 export const EXPERIENCES = [
   {
+    year: "03/2025 - Presente",
+    role: "Professor",
+    company: "Secretaria de Educação do Estado de Pernambuco",
+    description: `Professor Subsequente na Escola Técnica Estadual Cícero Dias no curso técnico Desenvolvimento de sistemas.`,
+    technologies: ["JavaScript", "Python", "Desenvolvimento Web"],
+  },
+  {
     year: "02/2025 - Presente",
     role: "Desenvolvedor de sistemas",
     company: "Autoimune - Unidade de Terapia Biológica Ltda",
-    description: `Atualização e manutenção de sistemas web utilizando o framework Laravel com as linguagens PHP e JavaScript e banco de dados MySQL.`,
+    description: `Desenvolvimento de sistemas web fullstack. Arquitetura MVC. Atualização e manutenção de sistemas web utilizando o framework Laravel com as linguagens PHP e JavaScript e banco de dados MySQL.`,
     technologies: ["Javascript", "PHP", "Laravel", "MySQL"],
   },
   {
-    year: "08/2021 - Presente",
+    year: "08/2021 - 03/2025",
     role: "Monitor de sistema e suporte ao usuário",
     company: "Montreal Informática",
     description: `Responsável pelo desenvolvimento e manutenção de aplicações web utilizando principalmente JavaScript (React.js e Node.js), PHP (Laravel) e integração com banco de dados MySQL.
