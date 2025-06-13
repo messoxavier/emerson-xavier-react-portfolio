@@ -18,7 +18,7 @@ export const EXPERIENCES = [
     role: "Professor",
     company: "Secretaria de Educação do Estado de Pernambuco",
     description: `Professor Subsequente na Escola Técnica Estadual Cícero Dias no curso técnico Desenvolvimento de sistemas. Disciplinas lecionadas: Lógica e Pensamento Computacional, Programação em Novas Tecnologias(Desktop), Administração de Banco de Dados e Projeto Integrador`,
-    technologies: ["JavaScript", "Python", "Java", "Desenvolvimento Web", "MySQL", "SQL Server", "MongoDB"],
+    technologies: ["JavaScript", "Python", "Java", "MySQL", "SQL Server", "MongoDB"],
   },
   {
     year: "02/2025 - Presente",
@@ -31,7 +31,7 @@ export const EXPERIENCES = [
     year: "08/2021 - 03/2025",
     role: "Monitor de sistema e suporte ao usuário",
     company: "Montreal Informática",
-    description: `Responsável pelo desenvolvimento e manutenção de aplicações web utilizando principalmente JavaScript (React.js e Node.js), PHP (Laravel) e integração com banco de dados MySQL.
+    description: `Responsável pelo desenvolvimento e manutenção de aplicações web utilizando principalmente JavaScript (React.js e Node.js), PHP (Laravel), Java (Spring Boot),e integração com banco de dados MySQL.
      Manutenção e administração de Ambiente Virtual de Aprendizagem(AVA) através da plataforma Moodle. Utilizando sempre das melhores práticas e metodologias ágeis.`,
     technologies: ["Javascript", "React.js", "Node.js", "PHP", "Laravel", "CodeIgniter", "Java", "Spring Boot", "MySQL"],
   },
