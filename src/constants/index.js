@@ -4,7 +4,7 @@ import project4 from "../assets/projects/SISGER.jpg";
 import project5 from "../assets/projects/portfolio.jpg";
 
 export const HERO_CONTENT = `Sou um profissional dedicado e focado em desenvolver soluções. 
-Com mais de 3 anos de experiência, trabalhei com as linguagens JavaScript e PHP, aprimorei habilidades em front-end com o React, assim como habilidades em back-end com Node.js, Laravel, MySQL e MongoDB.
+Com mais de 3 anos de experiência, trabalhei com as linguagens Java, JavaScript e PHP, aprimorei habilidades em front-end com o React, assim como habilidades em back-end com Node.js, Laravel, MySQL e MongoDB.
  Tenho como foco analisar e desenvolver soluções práticas e precisas de acordo com as necessidades.`;
 
 export const ABOUT_TEXT = `Graduado no curso de Ciência da Computação, tive a oportunidade de estudar e aprimorar minhas habilidades na programação, tenho trabalhado principalmente com desenvolvimento full stack, utilizando as linguagens PHP e JavaScript,
@@ -17,8 +17,8 @@ export const EXPERIENCES = [
     year: "03/2025 - Presente",
     role: "Professor",
     company: "Secretaria de Educação do Estado de Pernambuco",
-    description: `Professor Subsequente na Escola Técnica Estadual Cícero Dias no curso técnico Desenvolvimento de sistemas.`,
-    technologies: ["JavaScript", "Python", "Desenvolvimento Web"],
+    description: `Professor Subsequente na Escola Técnica Estadual Cícero Dias no curso técnico Desenvolvimento de sistemas. Disciplinas lecionadas: Lógica e Pensamento Computacional, Programação em Novas Tecnologias(Desktop), Administração de Banco de Dados e Projeto Integrador`,
+    technologies: ["JavaScript", "Python", "Java", "Desenvolvimento Web", "MySQL", "SQL Server", "MongoDB"],
   },
   {
     year: "02/2025 - Presente",
@@ -33,7 +33,7 @@ export const EXPERIENCES = [
     company: "Montreal Informática",
     description: `Responsável pelo desenvolvimento e manutenção de aplicações web utilizando principalmente JavaScript (React.js e Node.js), PHP (Laravel) e integração com banco de dados MySQL.
      Manutenção e administração de Ambiente Virtual de Aprendizagem(AVA) através da plataforma Moodle. Utilizando sempre das melhores práticas e metodologias ágeis.`,
-    technologies: ["Javascript", "React.js", "Node.js", "PHP", "Laravel", "CodeIgniter", "MySQL"],
+    technologies: ["Javascript", "React.js", "Node.js", "PHP", "Laravel", "CodeIgniter", "Java", "Spring Boot", "MySQL"],
   },
 ];
 
@@ -50,7 +50,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "Estruturação e implementação de Ambiente Virtual de Aprendizagem para Diretoria Geral de Telessaúde da Secretaria Estadual de Saúde de Pernambuco, através da plataforma Moodle.",
-    technologies: ["PHP", "Moodle", "HTML", "CSS", "MySQL"],
+    technologies: ["PHP", "JavaScript", "Moodle", "HTML", "CSS", "MySQL"],
   },
   {
     title: "Portfólio Web",
