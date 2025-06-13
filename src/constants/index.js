@@ -17,7 +17,7 @@ export const EXPERIENCES = [
     year: "03/2025 - Presente",
     role: "Professor",
     company: "Secretaria de Educação do Estado de Pernambuco",
-    description: `Professor Subsequente na Escola Técnica Estadual Cícero Dias no curso técnico Desenvolvimento de sistemas. Disciplinas lecionadas: Lógica e Pensamento Computacional, Programação em Novas Tecnologias(Desktop), Administração de Banco de Dados e Projeto Integrador`,
+    description: `Professor Subsequente na Escola Técnica Estadual Cícero Dias no curso técnico Desenvolvimento de sistemas. Disciplinas lecionadas: Lógica e Pensamento Computacional, Programação em Novas Tecnologias(Desktop), Administração de Banco de Dados e Projeto Integrador.`,
     technologies: ["JavaScript", "Python", "Java", "MySQL", "SQL Server", "MongoDB"],
   },
   {
